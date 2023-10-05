@@ -7,7 +7,7 @@
 #' @param se_colB Standard error of the variable as denominator
 #' @param t t statistic for the desired confidence
 #'
-#' @return A dataframe with additonal columns
+#' @return A dataframe with additional columns
 #' @export
 #'
 #' @examples
