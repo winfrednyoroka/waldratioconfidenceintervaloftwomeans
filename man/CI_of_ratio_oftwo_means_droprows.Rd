@@ -32,3 +32,6 @@ A dataframe with additonal columns
 \description{
 Wald Ratio Calculator With Confidence Intervals
 }
+\examples{
+(data = df,mean_colA = df$A,mean_colB = df$B,se_colA = df$Ase,
+}
