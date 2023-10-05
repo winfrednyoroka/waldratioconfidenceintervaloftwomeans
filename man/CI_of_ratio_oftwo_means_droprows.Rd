@@ -27,7 +27,7 @@ CI_of_ratio_oftwo_means_droprows(
 \item{t}{t statistic for the desired confidence}
 }
 \value{
-A dataframe with additonal columns
+A dataframe with additional columns
 }
 \description{
 Wald Ratio Calculator With Confidence Intervals
