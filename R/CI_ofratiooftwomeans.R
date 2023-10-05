@@ -10,7 +10,8 @@
 #' @return A dataframe with additonal columns
 #' @export
 #'
-#' @examples
+#' @examples (data = df,mean_colA = df$A,mean_colB = df$B,se_colA = df$Ase,
+#                                                       se_colB =df$Bse, t=0.05,)
 CI_of_ratio_oftwo_means_droprows <- function(data, mean_colA, mean_colB, se_colA, se_colB, t) {
   n <- nrow(data) # Number of rows in the data frame
 
